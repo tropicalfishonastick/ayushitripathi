@@ -56,7 +56,7 @@
  <path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path>
                     </svg>
                     </a>
-                    "👩‍💻&zwj;💻 &nbsp;A Little Bit About Me and My Interests"
+                    "👩‍💻&zwj; A Little Bit About Me and My Interests"
                     </h2>
                     <p align="center">
   
@@ -65,7 +65,7 @@
 <h1 align="center">Hi, I'm Ayushi Tripathi! 👋</h1>
 <p align="center">Driven by an unquenchable zeal for bioinformatics, I have honed my data analytics prowess as a self-taught professional. The synergy of my data-driven expertise with the intricate tapestry of biology empowers me to lead pioneering advances in the intersection of technology and life sciences. Welcome to my GitHub profile!</p>
 
-<h2>Fields of Interests</h2>
+<h2> 🎓 Fields of Interests</h2>
 <ul>
   <li>🧬 Epidemiology and Public Health Analysis</li>
   <li>📊 Data Science</li>
@@ -76,7 +76,7 @@
   <li>💻 Data Analytics</li>
 </ul>
 
-<h2>Technical Background</h2>
+<h2> 🎯 Technical Background</h2>
 <ul>
   <li>👷‍♂️ Proficient Quality Analyst ensuring software integrity through meticulous testing, collaborating with development teams, and validating application functionality for optimal performance and uncompromising quality.</li>
 </ul>
@@ -160,7 +160,7 @@
   <img src="https://brandeps.com/logo-download/A/Apache-Spark-logo-vector-01.svg" alt="Apache-Spark" width="45" height="45" style="max-width: 100%;">
 </a>
     <!-- Add more tools and platforms logos here -->
-<h2>Hobbies</h2>
+<h2> 💡 Hobbies</h2>
 <ul>
   <li>🎮 Exploring data and uncovering patterns.</li>
   <li>📚 Continuous learning and staying up-to-date with the latest trends.</li>
