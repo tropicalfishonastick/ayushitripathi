@@ -1,0 +1,2 @@
+# ayushitripathi
+🎮Aesthetic GitHub Profile🎮
