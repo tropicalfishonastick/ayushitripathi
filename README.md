@@ -90,8 +90,8 @@
  </a>
 <p align="left" dir="auto">
  <h2>  🚀 Tech Stack</h2>
-<a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" alt="Python" width="45" height="45" style="max-width: 100%;">
+<a target="_blank" rel="noopener noreferrer nofollow" href="https://freepngimg.com/thumb/python_logo/7-2-python-logo-free-download-png-thumb.png">
+  <img src="https://freepngimg.com/thumb/python_logo/7-2-python-logo-free-download-png-thumb.png" alt="Python" width="45" height="45" style="max-width: 100%;">
 </a>
 <a target="_blank" rel="noopener noreferrer nofollow" href="https://brandeps.com/logo-download/P/Pycharm-logo-vector-01.svg">
   <img src="https://brandeps.com/logo-download/P/Pycharm-logo-vector-01.svg" alt="Pycharm" width="45" height="45" style="max-width: 100%;">
