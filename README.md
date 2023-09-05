@@ -171,13 +171,13 @@
 <br /> <!-- Add a line break for spacing -->
 
 <h2>📊 GitHub Stats:</h2>
-<img src="https://github-readme-stats.vercel.app/api?username=tropicalfishonastick&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=ayushi-tripathi&show_icons=true&theme=dark" alt="GitHub Stats" />
 <br />
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=tropicalfishonastick&theme=dark&hide_border=false" alt="GitHub Streak" />
 <br />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tropicalfishonastick&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" />
-
 <hr />
+<p>Feel free to explore my repositories and get in touch if you'd like to collaborate!</p>
 <p align="center">
   <em>Let's connect! Find me on <a href="https://www.linkedin.com/in/theayushitripathi06/">LinkedIn</a>.</em>
 </p>
