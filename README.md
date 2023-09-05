@@ -177,7 +177,6 @@
 <br />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tropicalfishonastick&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" />
 <hr />
-<p>Feel free to explore my repositories and get in touch if you'd like to collaborate!</p>
 <p align="center">
   <em>Let's connect! Find me on <a href="https://www.linkedin.com/in/theayushitripathi06/">LinkedIn</a>.</em>
 </p>
