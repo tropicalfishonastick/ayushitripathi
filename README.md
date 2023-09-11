@@ -171,7 +171,7 @@
 <br /> <!-- Add a line break for spacing -->
 
 <h2>📊 GitHub Stats:</h2>
-<img src="https://github-readme-stats.vercel.app/api?username=ayushi-tripathi&show_icons=true&theme=dark" alt="GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=tropicalfishonastick&show_icons=true&theme=dark" alt="GitHub Stats" />
 <br />
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=tropicalfishonastick&theme=dark&hide_border=false" alt="GitHub Streak" />
 <br />
