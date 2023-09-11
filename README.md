@@ -170,12 +170,23 @@
 
 <br /> <!-- Add a line break for spacing -->
 
+<p align="center" dir="auto">
 <h2>📊 GitHub Stats:</h2>
-<img src="https://github-readme-stats.vercel.app/api?username=tropicalfishonastick&show_icons=true&theme=dark" alt="GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=tropicalfishonastick&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" />
 <br />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=tropicalfishonastick&theme=dark&hide_border=false" alt="GitHub Streak" />
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+</head>
+<body>
+    <a href="https://git.io/streak-stats">
+        <img src="https://streak-stats.vercel.app/api?user=tropicalfishonastick&theme=vue-dark&hide_border=true" alt="GitHub Streak" />
+    </a>
+</body>
+</html>
 <br />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tropicalfishonastick&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tropicalfishonastick&theme=vue-dark&show_icons=true&hide_border=true&layout=compact" alt="Top Languages" />
 <hr />
 <p align="center">
   <em>Let's connect! Find me on <a href="https://www.linkedin.com/in/theayushitripathi06/">LinkedIn</a>.</em>
